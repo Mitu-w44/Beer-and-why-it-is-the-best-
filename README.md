@@ -2,10 +2,6 @@
 <html>
   <head>
     <meta name="description" content="beer ratings">
-    <style>
-      <link rel="stylesheet" href="_config.yml" />
-
-    </style>
   </head>
   <body>
     <h1><u>Rating Light Beer in Hong Kong</u></h1>
@@ -49,5 +45,14 @@
       main ingredients: water, malted barley, hops, yeast
     </blockquote>
      <p>San Miguel is apparently brewed in Hong Kong, it is also the best selling beer in Hong Kong. It comes with a variety of versions, for example San Miguel Pale Pilsen, San Miguel Light, San Miguel Super Dry. San Miguel Pale Pilsen(the standard version) comes with a heavier flavour and rougher texture, while San Miguel Light is lighter version with lower calories, offering a crisp and refreshing taste, highly recommended for beginners. Which tastes better varies among people, for me, I would rate a 2.5/5 for the standard version and a 4/5 for the light version, giving an overall rating of 3/5 for San Miguel considering the other versions as well. Also note that San Miguel beer has a pretty standard pricing.</p>
+
+<h3 id="corona"><em>CORONA</em></h3>
+     <img src="corona1.jpg" width="400px"/>
+    <blockquote> rating: 4.5/5<br>
+      origin: Mexico City, Mexico (currently brewed in China)<br>
+      year introduced to HK: 1981<br>
+      main ingredients: barley malt, corn, hops, yeast, antioxidants (ascorbic acid), propylene glycol alginate
+    </blockquote>
+     <p>Corona is a light, smooth, bubbly Mexican beer with an extremely fresh taste. Although it has a lower alcohol content of 4.5% when compared to standard beer (5%), it still gives the most traditional taste of beer. It turns out that there is a huge contrast between canned corona and bottled corona, as bottled corona tastes much fresher than the canned ones. Corona is also often served with a lime wedge, enhancing its refreshing qualities. Like Asahi, Coronas are most commonly sold on in snack stores (e.g. 360 & 759) for a slightly expensive price tthan usual. </p>
   </body>
 </html>
