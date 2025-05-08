@@ -17,16 +17,16 @@
     <p>At the end of the day, for whatever reason beer is lacking popularity, beer is still the best light alcohol beverage you would love to have after a long day. It's cheap, good texture, unique flavour, best experience when it comes with a little snack. It is also effective in putting you to sleep without getting you drunk. Moreover, <a href="https://www.intoactionrecovery.com/blog/how-does-alcohol-affect-dopamine/">beer helps boosting the production of endorphins, otherwise known as the feel-good hormones</a>, making you happy as you should always be. Life without beer isn't a fucking life, everyone deserves a beer.</p>
     <h2><abbr title="Hypertext Martkup Language">Top 10 Light Beer in Hong Kong</abbr></h2>
     <ul>
-      <li><a href="#bluegirl">Blue Girl :star2: </a></li> 
+      <li><a href="#bluegirl">Blue Girl</a></li> 
       <li><a href="#sanmiguel">San Miguel</a></li>
       <li><a href="#tsingtao">Tsingtao</a></li>
       <li><a href="#heineken">Heineken</a></li>
       <li><a href="#carlsberg">Carlsberg</a></li>
       <li><a href="#ice">Ice</a></li>
       <li><a href="#skol">Skol</a></li>
-      <li><a href="#corona">Corona :star2: </a></li>
+      <li><a href="#corona">Corona</a></li>
       <li><a href="#asahi">Asahi</a></li>
-      <li><a href="#sapporo">Sapporo :star2: </a></li>
+      <li><a href="#sapporo">Sapporo</a></li>
     </ul>
      <h3 id="bluegirl"><em>BLUE GIRL</em></h3>
      <img src="bluegirl1.jpg" height=200px"/>
