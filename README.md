@@ -2,6 +2,10 @@
 <html>
   <head>
     <meta name="description" content="beer ratings">
+    <style>
+      <link rel="stylesheet" href="_config.yml" />
+
+    </style>
   </head>
   <body>
     <h1><u>Rating Light Beer in Hong Kong</u></h1>
