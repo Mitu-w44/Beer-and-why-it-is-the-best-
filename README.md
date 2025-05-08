@@ -6,7 +6,7 @@
   <body>
     <h1><u>Rating Light Beer in Hong Kong</u></h1>
     <h2><abbr title="Hypertext Martkup Language">A short discussion - why beer is so underrated</abbr></h2>
-    <img src="neon.beer1.jpg" width="300px"/>
+    <img src="neon.beer1.jpg" width="650px"/>
       <p>In this article, 10 beer brands commonly sold in convenience stores will be rated and discussed. Most are traditional brands with wonderful taste and texture, I will also discuss what ingredients makes the best beer, and which brand suits you accoording to your general beverage preferences. The history of beer in Hong Kong dates back to the mid-19th century, the era where beer reached peak popularity in Hong Kong. Yet nowadays, the popularity of beer have been declining, especially among newer generations. Why? Here are a couple of reasons:
       <ul>
         <li>introduction of new types of beverages in the market (e.g. canned cocktails)</li>
