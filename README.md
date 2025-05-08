@@ -6,7 +6,7 @@
   <body>
     <h1><u>Rating Light Beer in Hong Kong</u></h1>
     <h2><abbr title="Hypertext Martkup Language">A quick discussion - why beer is so underrated</abbr></h2>
-    <img src="neon.beer1.jpg" width="400px"/>
+    <img src="neon.beer1.jpg" height="200px"/>
       <p>In this article, 10 beer brands commonly sold in Hong Kong convenience stores will be rated and discussed. Most are traditional brands with wonderful taste and texture, I will also discuss what ingredients makes the best beer, and which brand suits you accoording to your general beverage preferences. The history of beer in Hong Kong dates back to the mid-19th century, the era where beer reached peak popularity in Hong Kong. Yet nowadays, the popularity of beer have been declining, especially among newer generations. Why? Here are a couple of reasons:
       <ul>
         <li>introduction of new types of beverages in the market (e.g. canned cocktails)</li>
@@ -24,12 +24,12 @@
       <li>Carlsberg</li>
       <li>Ice</li>
       <li>Skol</li>
-      <li>Corona</li>
+      <li><a href="#corona">Corona</a></li>
       <li>Asahi</li>
       <li>Sapporo</li>
     </ul>
      <h3 id="bluegirl"><em>BLUE GIRL</em></h3>
-     <img src="bluegirl1.jpg" width="400px"/>
+     <img src="bluegirl1.jpg" height=200px"/>
     <blockquote> rating: 4.5/5<br>
       origin: Bremen, Germany (currently brewed in South Korea)<br>
       year introduced to HK: 1906<br>
@@ -38,7 +38,7 @@
      <p>Blue girl is one of the most popular brands in Hong Kong. It tastes mildly pleasant with slight bitterness and a hint of floral notes. It comes with a light and smooth, with a crisp finish. Mega-sized Blue Girl bottles are particularly popular and commonly seen in dine-in restaurants in Hong Kong. You can find Blue Girl beer in almost every convenience store and supermarket in Hong Kong. However, it is slightly more pricey compared to other brands, yet still affordable. </p>
     
 <h3 id="sanmiguel"><em>SAN MIGUEL</em></h3>
-     <img src="sanmiguel1.webp" width="400px"/>
+     <img src="sanmiguel1.webp" height="200px"/>
     <blockquote> rating: 3/5<br>
       origin: Manila, Philippenes (currently brewed in Hong Kong)<br>
       year introduced to HK: 1948<br>
@@ -47,12 +47,12 @@
      <p>San Miguel is apparently brewed in Hong Kong, it is also the best selling beer in Hong Kong. It comes with a variety of versions, for example San Miguel Pale Pilsen, San Miguel Light, San Miguel Super Dry. San Miguel Pale Pilsen(the standard version) comes with a heavier flavour and rougher texture, while San Miguel Light is lighter version with lower calories, offering a crisp and refreshing taste, highly recommended for beginners. Which tastes better varies among people, for me, I would rate a 2.5/5 for the standard version and a 4/5 for the light version, giving an overall rating of 3/5 for San Miguel considering the other versions as well. Also note that San Miguel beer has a pretty standard pricing.</p>
 
 <h3 id="corona"><em>CORONA</em></h3>
-     <img src="corona1.jpg" width="400px"/>
+     <img src="corona1.jpg" height="200px"/>
     <blockquote> rating: 4.5/5<br>
       origin: Mexico City, Mexico (currently brewed in China)<br>
       year introduced to HK: 1981<br>
       main ingredients: barley malt, corn, hops, yeast, antioxidants (ascorbic acid), propylene glycol alginate
     </blockquote>
-     <p>Corona is a light, smooth, bubbly Mexican beer with an extremely fresh taste. Although it has a lower alcohol content of 4.5% when compared to standard beer (5%), it still gives the most traditional taste of beer. It turns out that there is a huge contrast between canned corona and bottled corona, as bottled corona tastes much fresher than the canned ones. Corona is also often served with a lime wedge, enhancing its refreshing qualities. Like Asahi, Coronas are most commonly sold on in snack stores (e.g. 360 & 759) for a slightly expensive price tthan usual. </p>
+     <p>Corona is a light, smooth, bubbly Mexican beer with an extremely fresh taste. Although it has a lower alcohol content of 4.5% when compared to standard beer (5%), it still gives the most traditional taste of beer. It turns out that there is a huge contrast between canned corona and bottled corona, as bottled coronas are well-known as 'much fresher', it comes with an impressive amount of beer bubbles along opening. Coronas are also often served along with a lime wedge, enhancing its refreshing qualities. Like Asahi, Coronas are most commonly sold in snack stores (e.g. 360 & 759) for a slightly expensive price than usual. </p>
   </body>
 </html>
